@@ -79,6 +79,7 @@ main.init = function () {
                     </div>
                 </div>`
         }
+        ghg
     })).fitBounds(data.mask, {
         padding: [10, 10]
     });
